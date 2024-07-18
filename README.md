@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 ¡Bienvenidos a mi GitHub!
-![Bitasoid](https://via.placeholder.com/600x200.png?text=Bitasoid)
+![Bitasoid](https://github.com/bitasoid/BitasoiD/blob/main/imagen%20github.png)
 
 <div align="center">
     <h2>Hola, soy Bitasoid</h2>
