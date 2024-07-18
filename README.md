@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## 👋 ¡Bienvenidos a mi GitHub!
+        ![Bitasoid](https://github.com/bitasoid/BitasoiD/blob/main/imagen%20github.png)
 
 
 <div align="center">
-    <h2>## 👋 ¡Bienvenidos a mi GitHub!
-        ![Bitasoid](https://github.com/bitasoid/BitasoiD/blob/main/imagen%20github.png) <br> Hola, soy Bitasoid</h2>
+    <h2> <br> Hola, soy Bitasoid</h2>
     <p>
         Desarrollador apasionado por la tecnología y la innovación.
         <br>
