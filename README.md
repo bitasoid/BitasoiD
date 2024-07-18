@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <div align="center"> ¡Bienvenidos a mi GitHub! </div>
-![Bitasoid]()
-
+# <div align="center"> ¡Bienvenidos a mi GitHub!
+![Bitasoid](https://github.com/bitasoid/BitasoiD/blob/main/imagen%20github.png)
+ </div>
 <div align="center">
     <h2>Hola, soy Bitasoid</h2>
     <p>
